@@ -1,2 +1,2 @@
 # FreeCodeCamp-bonfires
-FreeCodeCamp.com bonfire solutions.
+[FreeCodeCamp.com](http://www.freecodecamp.com) bonfire solutions.
