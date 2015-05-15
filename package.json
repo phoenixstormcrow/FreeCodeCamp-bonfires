@@ -1,0 +1,30 @@
+{
+  "name": "free-code-camp-bonfires",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp.com bonfire solutions.",
+  "main": "index.js",
+  "private": "true",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phoenixstormcrow/FreeCodeCamp-bonfires.git"
+  },
+  "keywords": [
+    "FreeCodeCamp",
+    "algorithms"
+  ],
+  "author": "K. P. MacGregor <phoenixstormcrow@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phoenixstormcrow/FreeCodeCamp-bonfires/issues"
+  },
+  "homepage": "https://github.com/phoenixstormcrow/FreeCodeCamp-bonfires",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  }
+}
